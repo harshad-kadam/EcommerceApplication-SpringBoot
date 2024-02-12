@@ -1,4 +1,4 @@
-## Spring Boot Application API Documentation
+## Ecommerce API Documentation
 
 This repository contains the source code for a Spring Boot application that provides various APIs for managing orders, payments, products, and users. Below is the API documentation for the endpoints provided by this application:
 
